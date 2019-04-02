@@ -13,4 +13,19 @@ I've become addicted to trying to be in as many social platform as possible as t
 + Facebook (https://www.facebook.com/christol.emenike)
 + Github (https://www.github.com/mysterioux)
 
-
+## Send me a mail
+<form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Content</label>
+    <textarea row=10 cols=25></textarea>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>

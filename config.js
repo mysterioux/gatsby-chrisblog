@@ -2,15 +2,15 @@
 
 module.exports = {
   url: 'https://ccemenike.netlify.com',
-  title: 'Blog by eChris',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'BlogSite by Christian Emenike',
+  subtitle: 'Integrating Blogging into my life cycle',
+  copyright: '© 2019 eChris All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Blog Post',
+      label: 'My Posts',
       path: '/'
     },
     {
@@ -23,7 +23,7 @@ module.exports = {
     },
     {
       label: 'Publications',
-      path: '/pages/publication'
+      path: '/pages/publications'
     },
     {
       label: 'Contact me',
@@ -36,13 +36,9 @@ module.exports = {
     bio: 'An ardict learner and aspiring innovative change maker and tech advocate',
     contacts: {
       email: 'ccemenike@gmail.com',
-      // telegram: '#',
-      instagram: 'ccemenike',
       facebook: 'christol.emenike',
       twitter: 'ccemenike',
       github: 'mysterioux'
-      // rss: '#',
-      // vkontakte: '#'
     }
   }
 };
