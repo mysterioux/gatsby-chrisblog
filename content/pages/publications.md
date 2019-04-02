@@ -1,1 +1,4 @@
-#My Publications
+---
+title: "Publications"
+template: "page"
+---

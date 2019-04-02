@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  url: 'https://ccemenike.netlify.com',
+  title: 'Blog by eChris',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -10,12 +10,20 @@ module.exports = {
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
-      label: 'Articles',
+      label: 'Blog Post',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Who am I?',
       path: '/pages/about'
+    },
+    {
+      label: 'Projects',
+      path: '/pages/projects'
+    },
+    {
+      label: 'Publications',
+      path: '/pages/publication'
     },
     {
       label: 'Contact me',
@@ -23,16 +31,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Christian C. Emenike',
+    photo: '/chris.jpg',
+    bio: 'An ardict learner and aspiring innovative change maker and tech advocate',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'ccemenike@gmail.com',
+      // telegram: '#',
+      instagram: 'ccemenike',
+      facebook: 'christol.emenike',
+      twitter: 'ccemenike',
+      github: 'mysterioux'
+      // rss: '#',
+      // vkontakte: '#'
     }
   }
 };

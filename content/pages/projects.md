@@ -1,1 +1,4 @@
-#My Works
+---
+title: "Projects"
+template: "page"
+---
