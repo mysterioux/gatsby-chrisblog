@@ -12,8 +12,12 @@ I've become addicted to trying to be in as many social platform as possible as t
 + Twitter (https://www.twitter.com/ccemenike)
 + Facebook (https://www.facebook.com/christol.emenike)
 + Github (https://www.github.com/mysterioux)
++ Instagram (https://www.instagram.com/ccemenike)
 
-## Send me a mail
+
+**_Still working on some stuff to make communication easy to me_**
+
+<!-- ## Send me a mail
 <form name="contact" netlify>
   <p>
     <label>Name <input type="text" name="name" /></label>
@@ -28,4 +32,4 @@ I've become addicted to trying to be in as many social platform as possible as t
   <p>
     <button type="submit">Send</button>
   </p>
-</form>
+</form> -->
