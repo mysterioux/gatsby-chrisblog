@@ -8,7 +8,7 @@ category: "Security"
 tags:
   - "bug"
   - "web"
-description: "At one of the assignment given during the HNG Internship 5.0 is to locate bugs on two sites. [verify.ng](https://verigy.ng) or [timbu.com](https://timbu.com) guessed what i choose?"
+description: "At one of the assignment given during the HNG Internship 5.0 is to locate bugs on two sites. verify.ng or timbu.com guessed what i choose?"
 ---
 
 # Summary
