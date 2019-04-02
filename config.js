@@ -28,7 +28,7 @@ module.exports = {
   ],
   author: {
     name: 'Christian C. Emenike',
-    photo: '/chris.jpg',
+    photo: '/photo.jpg',
     bio: 'An ardict learner and aspiring innovative change maker and tech advocate',
     contacts: {
       email: 'ccemenike@gmail.com',
