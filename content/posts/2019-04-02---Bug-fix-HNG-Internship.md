@@ -27,5 +27,7 @@ Image link broken on Country Category under Liberia
 2) Both Monrovia and Harbel images are not displaying. 
 3) When you visit the image link, it displays 404 page.
 
+![Timbu Bug](/media/timbu.png)
+
 ## Expected Result:
 The images should be pointing to an actual image file hosted on the server.
