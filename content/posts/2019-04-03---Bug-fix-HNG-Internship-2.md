@@ -24,7 +24,7 @@ Incorrect  Listing Display from Search
 
 ## Bud Description
 1) Performing a search with the key word **monrovia** creates the  url https://timbu.com/search?query=Monrovia
-2) The result shows an incorrect image display listings which spills down the webpage vertically.T
+2) The result shows an incorrect image display listings which spills down the webpage vertically.
    
 ## Expected Result:
 Each image should fit within each search result at its associated content space without affecting the next result.
