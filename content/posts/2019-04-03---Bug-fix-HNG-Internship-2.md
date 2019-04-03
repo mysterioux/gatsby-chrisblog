@@ -20,7 +20,7 @@ Incorrect  Listing Display from Search
 
 **OS/Browser**: Windows 10/Mozilla Firefox
 
-**Severity**: Major
+**Severity**: Medium
 
 ## Bud Description
 1) Performing a search with the key word **monrovia** creates the  url https://timbu.com/search?query=Monrovia
