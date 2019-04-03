@@ -23,7 +23,7 @@ Image link broken on Country Category under Liberia
 **Severity**: Minor
 
 ## Bud Description
-1) Visiting https://timbu.com/liberia displays two cities with the country
+1) Visiting https://timbu.com/liberia displays two cities within the country category
 2) Both Monrovia and Harbel images are not displaying. 
 3) When you visit the image link, it displays 404 page.
 
