@@ -16,7 +16,7 @@ Image link broken on Country Category under Liberia
 
 **Platform**: PC
 
-**URL**: __timbu.com__
+**URL**: http://www.timbu.com
 
 **OS/Browser**: Windows 10/Mozilla Firefox
 
