@@ -15,7 +15,7 @@ I've become addicted to trying to be in as many social platform as possible as t
 + Instagram (https://www.instagram.com/ccemenike)
 
 
-**_Still working on some stuff to make communication easy to me_**
+**_Still working on some stuff to make communication easy for me_**
 
 <!-- ## Send me a mail
 <form name="contact" netlify>
