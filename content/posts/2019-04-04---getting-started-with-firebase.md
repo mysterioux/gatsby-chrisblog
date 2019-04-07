@@ -1,3 +1,15 @@
+---
+title: Getting Started With Google Firebase
+date: "2019-04-01"
+template: "post"
+draft: false
+slug: "/posts/getting-started-with-firebase/"
+category: "Web Development"
+tags:
+  - "hosting"
+  - "new technology"
+description: "How I moved out of fear to resume blogging about what I am leanring in technology, programming and ofcourse life"
+---
 
 # GOOGLE FIREBASE
 One of the recent platform i've been utilizing is Google Firebase. Its one of the best "free hosting" solution to host static files like html, javascript, CSS etc. Its my quick solution in hosting static applications. It's light, fast, provides content delivery throught the globe and why students,s tartups and bloggers should leverage on it.
@@ -26,6 +38,7 @@ Google provides all that is needed to get your feet wet. In summary this is what
 More information [here](https://firebase.google.com/docs/hosting/)
 
 ## **How to get started properly**
+---
 Honestly no better place to get this information then to visit [How to get started](https://firebase.google.com/docs/hosting/quickstart)
 
 Trying to give you what has been provided already is what I call **REPITITOIN OF DOCS (RoD)**
@@ -53,3 +66,9 @@ Let's see the good part
     Limited query abilities due to Firebase’s data stream model
     Traditional relational data models are not applicable to NoSQL; therefore, your SQL chops will not transfer
     No on-premise installation
+
+
+
+
+
+   That's been said, head over to [Firebase.google.com](https://firebase.google.com) and explore.
