@@ -1,6 +1,6 @@
 ---
 title: Getting Started With Google Firebase
-date: "2019-04-01"
+date: "2019-04-04"
 template: "post"
 draft: false
 slug: "/posts/getting-started-with-firebase/"
