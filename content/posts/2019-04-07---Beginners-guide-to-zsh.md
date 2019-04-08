@@ -13,9 +13,9 @@ description: "To become very efficient and productive is very important in the t
 
 Just this morning while trying to make my command prompt look a bit more like linux using <a href="https://cmder.net" target="_blank">cmder</a>, I quickly switched to <a href="https://twitter.com/wesbos" target="_blank">Wesbos</a> course on <a href="http://commandlinepoweruser.com" target="_blank">Command Line Power User</a>
 
-What struck me was the bash terminal he was using. It looked really pretty and I told me self, "I what something like this". So in his course, he taught about Zsh & Z. I did a little study and research and soon got hooked up with [Zsh](https://ohmyz.sh) terminal  which is an extended Bourne Shell with a large number of improvements. I had to get it running on my system. But the problem was, I was using WINDOWS 10, OUCH!
+What struck me was the bash terminal he was using. It looked really pretty and I told me self, "I what something like this". So in his course, he taught about Zsh & Z. I did a little study and research and soon got hooked up with [Zsh](https://ohmyz.sh) terminal  which is an extended Bourne Shell with a large number of improvements. I had to get it running on my system. But the problem was, I was using WINDOWS 10, **OUCH!**
 
-But I determine to get it running, so I had two choice, Install Windows Linxu Subsystem like or Cygwin. I went for both. (Laughing seriously here)
+But I determine to get it running, so I had two choices, Install Windows Linxu Subsystem like or Cygwin. I went for both. (Laughing seriously here)
 
 This is the final look of what I am trying to achieve:
 ![Zsh Prompt](/media/zshprompt.png)
@@ -63,4 +63,4 @@ Till then, **#KeepLearning**
 O! lest I forget, you can get a quick understanding on how to use ZSH by visiting this video on <a href="https://www.youtube.com/watch?v=Ojdk1lNXB0E" target="_blank">YouTube</a>
 
 **update**:
-I had to replace ```\ue0a0``` to ```u0e0a``` inside the agonster theme by replacing ```PL_BRANCH_CHAR=$'\ue0a0'``` 
+I had to replace ```\ue0a0``` to ```u0e0a``` inside the agonster theme by replacing ```PL_BRANCH_CHAR=$'\ue0a0'```  
