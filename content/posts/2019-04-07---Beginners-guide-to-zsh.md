@@ -15,7 +15,7 @@ Just this morning while trying to make my command prompt look a bit more like li
 
 What struck me was the bash terminal he was using. It looked really pretty and I told me self, "I what something like this". So in his course, he taught about Zsh & Z. I did a little study and research and soon got hooked up with [Zsh](https://ohmyz.sh) terminal  which is an extended Bourne Shell with a large number of improvements. I had to get it running on my system. But the problem was, I was using WINDOWS 10, **OUCH!**
 
-But I determine to get it running, so I had two choices, Install Windows Linxu Subsystem like or Cygwin. I went for both. (Laughing seriously here)
+But I determine to get it running, so I had two choices, Install Windows Linux Subsystem like or Cygwin. I went for both. (Laughing seriously here) 
 
 This is the final look of what I am trying to achieve:
 ![Zsh Prompt](/media/zshprompt.png)
