@@ -21,4 +21,4 @@ Some of the features include:
 * Able to pay for utility bills (Water, LEC, Tax etc)
 * Ablility to see history of payments
 
-It's purely a native android application.
+It's a mobile app for the andriod platform. Thinking of building this in flutter if possible so as to have it on both android and iOS platforms.
