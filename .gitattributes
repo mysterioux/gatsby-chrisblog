@@ -3,3 +3,5 @@
 /.editorconfig export-ignore
 /.travis.yml export-ignore
 **/*.js.snap export-ignore
+package.json text eol=lf
+package-lock.json text eol=lf
