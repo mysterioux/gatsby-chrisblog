@@ -1,6 +1,8 @@
 'use strict';
+
 const siteConfig = require('./config.js');
 const postCssPlugins = require('./postcss-config.js');
+
 module.exports = {
   siteMetadata: {
     url: siteConfig.url,
