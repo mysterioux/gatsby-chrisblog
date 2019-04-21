@@ -5,6 +5,7 @@
 **/*.js.snap export-ignore
 package.json text eol=lf
 package-lock.json text eol=lf
+* text=auto eol=lf
 *.js text eol=lf
 *.sass text eol=lf
 *.json text eol=lf
