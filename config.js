@@ -12,7 +12,7 @@ module.exports = {
     {
       label: 'Home',
       path: 'http://ccemenike.me'
-    }
+    },
     {
       label: 'My Posts',
       path: '/'
