@@ -11,7 +11,7 @@ module.exports = {
   menu: [
     {
       label: 'Home',
-      path: 'http://ccemenike.me'
+      path: '/'
     },
     {
       label: 'My Posts',
