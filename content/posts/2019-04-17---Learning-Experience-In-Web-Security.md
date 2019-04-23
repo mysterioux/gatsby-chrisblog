@@ -22,7 +22,7 @@ The following during the course of my research are some facts that I’ve gather
 ### Illegal URLs and Phishing Mails: 
 A lot of users don’t know how dangerous phishing mail is as it lures users into clicking a _“somehow”_ familiar links, which directs theme to web page filled with malicious software (malware) where attackers steal or swipes the details of the users. Sometimes these mails can redirect user into a _“private”_ login details similar to theirs and users most times get trapped without paying close attention to the mail URL. In my opinion it is sensible to avoid such spam links especially in organization that seems ripe fruits for cyber culprits and the likes.
 
-### Fake Login Web pages: 
+# Fake Login Web pages: 
 Some emails that lets user access their account using a login screen has been seen crippling into users emails these days. A user innocently enters his/her details without knowing that the page is a mirage (a fake website that looks similar to its original). Other attacks like **CSRF (Cross-Site Request Forgery)** is been used to hack the sessions of the browser of the users. Attackers then install malware to into the browser to steal the information from the website. To avoid such it will be advice to always look for web pages that provides security and authentication of pages before submitting credentials. Such web pages include SSL certificate security into their site to ensure user’s details stay encrypted. Look for the sign **_https://_** whenever you need to access private and sensible data online else flee.
 
 ### Lack of Continuous Online Security Monitory (COSM):
