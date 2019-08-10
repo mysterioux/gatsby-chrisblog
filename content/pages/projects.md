@@ -4,7 +4,7 @@ template: "page"
 description: "List of projects I'm doing or have done."
 ---
 # EDTeach
-This is an application that provides a learning platform for low earning individuals willing to grow their advance their education pathway. It provides rich contents to prepare students to continue their education to the university level. It brings the various career path to the palm of the student. It is going to be both mobile and web driven.<br>
+This is an application that provides a learning platform for low earning individuals willing to advance their education pathway. It provides set of rich contents to prepare students to continue their education up to the university level. It brings the various career path to the palm of the student. It is designed for both the Mobile and Web-based environment.<br>
 __tag__: **mobile, web** 
 
 # DAREit 
@@ -12,7 +12,7 @@ DAREit **(Developing & Acquiring Real Education in Information Technology)** is 
 __tag__: **web, service**
 
 # TopMe
-TopMe is an e-wallet system that was developed for the liberian market. It's sole purpose is to provide flexibility for the exchange of goods and services. It provides the platform for users to transfer, send, and receive cash seamlessly. It also allows users to purchase goods or services through the platform. No more carrying around cash. 
+TopMe is an e-wallet system that is been developed for the liberian market. It's sole purpose is to provide flexibility for the exchange of goods and services. It provides the platform for users to transfer, send, and receive cash seamlessly. It also allows users to purchase goods or services through the platform. No more carrying around cash. 
 
 Some of the features include:
 * Ability to transfer cash from your bank account to your e-wallet
@@ -20,5 +20,6 @@ Some of the features include:
 * Ability to purchase goods/services
 * Able to pay for utility bills (Water, LEC, Tax etc)
 * Ablility to see history of payments
+* Option to add other **TYPES** of payment systems
 
 It's a mobile app for the andriod platform. Thinking of building this in flutter if possible so as to have it on both android and iOS platforms.
