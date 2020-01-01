@@ -1,5 +1,5 @@
 ---
-title: A New Year and A New Paht
+title: A New Year and A New Path
 date: "2020-01-01"
 template: "post"
 draft: false
@@ -10,7 +10,9 @@ tags:
   - "Inspiration"
 description: "It's exciting to be among those who witness the year 2020. 2019 was a lesson as its filled with challenges, life-changing experiences and the likes. 2020 is an exciting year to be serious with God, Life, Family and Technology"
 ---
-# THE BEGINNING
+# Jan 01-2020
+
+## THE BEGINNING
 
 I know each year people make resolutions that at the end couldn't keep up. But I decided to go on a separate path this year. A committment path to achieve some basic things and make sure they are do no matter even if I am so tired. The following are some of the goals I hope to achieve each before I go to sleep each night
 * Building my skills as a FullStack Developer (Javascript)
