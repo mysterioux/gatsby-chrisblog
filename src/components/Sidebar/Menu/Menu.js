@@ -5,6 +5,7 @@ import styles from './Menu.module.scss';
 const Menu = ({ menu }) => (
   <nav className={styles['menu']}>
     <ul className={styles['menu__list']}>
+      <li><a href="http://ccemenike">Home</a></li>
       {menu.map((item) => (
         <li className={styles['menu__list-item']} key={item.path}>
           <Link
