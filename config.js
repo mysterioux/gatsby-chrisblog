@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://ccemenike.netlify.com',
   title: 'BlogSite by Christian Emenike',
   subtitle: 'Integrating Blogging into my life cycle',
-  copyright: '© 2019 eChris All rights reserved.',
+  copyright: '© 2020 eChris All rights reserved.',
   disqusShortname: 'ccemenike',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
